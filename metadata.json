@@ -1,0 +1,10 @@
+{
+  "name": "Calendar",
+  "version": "1.0.0",
+  "description": "An offline calendar with a futuristic HUD design. Month, week, day and agenda views, repeating events with custom RRULE patterns, exact reminders, keyword search and full time zone support.",
+  "author": "Mohammad Mahfuz Rahman",
+  "ageRating": "3+",
+  "category": "Productivity",
+  "containsAds": false,
+  "type": "app"
+}
